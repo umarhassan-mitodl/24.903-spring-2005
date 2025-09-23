@@ -1,0 +1,47 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Undergraduate",
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy",
+      "Philosophy of Language"
+    ],
+    [
+      "Humanities",
+      "Linguistics",
+      "Semantics"
+    ]
+  ],
+  "legacy_uid": "c260d34d-e127-11bf-74f8-7bf6e858eb99",
+  "instructors": {
+    "content": [
+      "aaed467b-063f-86d6-5748-8c2ac24c8abb"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f716540b-d459-4f5d-2bcf-3b12253534b1",
+    "website": "24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005"
+  },
+  "course_title": "Language and its Structure III: Semantics and Pragmatics",
+  "course_description": "This course gives an introduction to the science of linguistic meaning. There are two branches to this discipline: semantics, the study of conventional, \"compositional meaning\", and pragmatics, the study of interactional meaning. There are other contributaries: philosophy, logic, syntax, and psychology. We will try to give you an understanding of the concepts of semantics and pragmatics and of some of the technical tools that we use.\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "24.933",
+  "primary_course_number": "24.903",
+  "course_image_thumbnail": {
+    "content": "9ce5de88-4862-edc0-0284-ef67e040256e",
+    "website": "24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005"
+  },
+  "learning_resource_types": [],
+  "site_uid": "d48dee87-0749-4953-aaa5-11b4474fa66a",
+  "site_short_id": "24.903-spring-2005",
+  "site_url_path": "courses/24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005",
+  "title": "Course Metadata"
+}
