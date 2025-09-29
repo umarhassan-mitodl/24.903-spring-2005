@@ -5,6 +5,8 @@ description: This resource includes 2 assignments, one based on the topic "Beyon
 file: /courses/24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005/e67a5a65d01dcb1fb8e81e8eab11843f_ps2.pdf
 file_size: 106704
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
