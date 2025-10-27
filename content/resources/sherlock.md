@@ -4,8 +4,6 @@ description: ''
 file: /courses/24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005/4616385ddd8e1844938173001bf73260_sherlock.jpg
 file_size: 83303
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

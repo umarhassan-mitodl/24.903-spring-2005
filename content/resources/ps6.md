@@ -5,8 +5,6 @@ description: This resource contains assignment on a handout, which provides an o
 file: /courses/24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005/7fdf9b83beaf5a4e030e177f9020e26f_ps6.pdf
 file_size: 33818
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

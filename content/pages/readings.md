@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the readings for the course, organized by session
   and topic.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -333,7 +331,7 @@ Brief Discussion of Vagueness
 
 _Required Reading_
 
-Read the [article on disjunction](http://plato.stanford.edu/entries/disjunction/) by R. E. Jennings in the _Stanford Encyclopedia of Philosophy_. Read especially carefully the section on "[The Myth of _Vel_ and _Aut_](http://plato.stanford.edu/entries/disjunction/#7)."
+Read the {{% resource_link "4e8fbc14-92f9-462d-bde0-7287867d4702" "article on disjunction" %}} by R. E. Jennings in the _Stanford Encyclopedia of Philosophy_. Read especially carefully the section on "{{% resource_link "0093cb18-51e9-43f4-b3f8-e0a6a31ba5a3" "The Myth of _Vel_ and _Aut_" %}}."
 
 
 {{< tdclose >}}
